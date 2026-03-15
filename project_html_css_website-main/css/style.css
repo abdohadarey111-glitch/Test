@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap");
 
-/* other css file imports */
+/* other css file */
 @import url("sections/header.css");
 @import url("sections/hero.css");
 @import url("sections/about.css");
@@ -94,12 +94,12 @@ a {
   margin: 32px 0px;
 }
 
-/* Hide scrollbar for Chrome, Safari and Opera */
+/* Hide scrollbar for Chrome, and other browser (Safari and Opera) */
 .sushi__hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
 
-/* Hide scrollbar for IE, Edge and Firefox */
+/* Hide scrollbar for (IE) walaahii I don't now, Edge and Firefox */
 .sushi__hide-scrollbar {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
@@ -162,7 +162,7 @@ a {
     padding: 32px;
   }
 }
-/* END: about us media queries */
+/* END: media queries */
 
 
 /* START: header media querie */
